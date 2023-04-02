@@ -1,2 +1,2 @@
 pip install -r requirements.txt
-streamlit run webapp.py
+streamlit run main/webapp.py
